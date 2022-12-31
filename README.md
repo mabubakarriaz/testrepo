@@ -1,7 +1,7 @@
 # testrepo
 Gaming PC
 
-`copy this text`
+```copy this text```
 
 <img src="https://img.shields.io/badge/AMD_Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" height="50"/>
 <img src="https://custom-icon-badges.demolab.com/badge/G.SKILL_Trident_Z_16G_3600_cl18-000?logo=gskill&logoColor=881b20&style=for-the-badge" height="50"/>
