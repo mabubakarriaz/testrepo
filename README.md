@@ -10,3 +10,9 @@ Gaming PC
 
 ![nvidia](https://img.shields.io/badge/AMD_Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
+
+##### Copy Code Snippet
+```sh
+curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&\
+sudo apt-get install -y nodejs
+```
