@@ -13,6 +13,5 @@ Gaming PC
 
 ##### Copy Code Snippet
 ```sh
-curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&\
-sudo apt-get install -y nodejs
+Copy this Text
 ```
