@@ -12,6 +12,6 @@ Gaming PC
 
 
 ##### Copy Code Snippet
-```sh
+```php
 Copy this Text
 ```
